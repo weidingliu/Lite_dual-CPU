@@ -24,7 +24,7 @@ Lite_dual-CPU（文档更新中）
 参考项目：
 ---------
 
-1.FDU1.1-NSCSCC [https://github.com/liuweidin/FDU1.1-NSCSCC ](https://github.com/NSCSCC-2020-Fudan/FDU1.1-NSCSCC)
+1.FDU1.1-NSCSCC https://github.com/NSCSCC-2020-Fudan/FDU1.1-NSCSCC
 
 2.UltraMIPS_NSCSCC https://github.com/SocialistDalao/UltraMIPS_NSCSCC
 
